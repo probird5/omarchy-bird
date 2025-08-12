@@ -5,7 +5,7 @@ cp -R ~/.local/share/omarchy/config/* ~/.config/
 # change this
 
 # Use default bashrc from Omarchy
-cp ~/.local/share/omarchy/default/zsh ~/.zshrc
+cp ~/.local/share/omarchy/default/zsh/zshrc ~/.zshrc
 
 # Ensure application directory exists for update-desktop-database
 mkdir -p ~/.local/share/applications
